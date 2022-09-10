@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stevenfeliz](https://www.linkedin.com/in/stevenfeliz)
 
-## Proyecto carrito de compras
+## Proyecto lista de tareas - vanilla javascript
 
 
-- pueden visualizar proyecto ## https://carrito-decompras.herokuapp.com/
+- pueden visualizar proyecto ## https://lista-tareas-stevenfeliz.netlify.app/
